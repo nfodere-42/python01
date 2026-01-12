@@ -1,8 +1,8 @@
-# Python Module 00
+# Python Module 01
 ![](images/logo_python01.png)
 
 ## Description
-Python Module 00 is the second Python module at 42 school. Here you learn to work with classes, lists, and more OOP concepts.
+Python Module 01 is the second Python module at 42 school. Here you learn to work with classes, lists, and more OOP concepts.
 
 ## Exercices description
 *Working in this project...*
